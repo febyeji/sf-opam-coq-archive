@@ -2,6 +2,7 @@
 
 ## Libraries
 - coq-sflib (https://github.com/snu-sf/sflib/)
+- coq-promising-lib (https://github.com/snu-sf/promising-lib/)
 
 ## Installation
 ```
